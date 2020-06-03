@@ -15,9 +15,14 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+### WeNotify Manager
+![WeNotify Manager](images/1.png)
 
-<img src="images/1.png" alt="Logo" width="80" height="80">
+### WeNotify Client
+![WeNotify Manager](images/2.png)
+![WeNotify Manager](images/3.png)
+![WeNotify Manager](images/4.png)
+![WeNotify Manager](images/5.png)
 
 ### Download
 

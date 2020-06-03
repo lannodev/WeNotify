@@ -31,5 +31,5 @@
 
 | Name | Version |
 | ------ | ------ |
-| WeNotify Manager | [https://github.com/luciano-work/WeNotify/releases/tag/1.2.0] |
-| WeNotify Client | [https://github.com/luciano-work/WeNotify/releases/tag/1.1.0] |
+| WeNotify Manager | [1.2.0](https://github.com/luciano-work/WeNotify/releases/tag/1.2.0) |
+| WeNotify Client | [1.1.0](https://github.com/luciano-work/WeNotify/releases/tag/1.1.0)  |

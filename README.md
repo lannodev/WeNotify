@@ -9,8 +9,12 @@
 
   <p align="center">
     An beautiful Windows notification client
-    
+  <br>
+  WeNotify allows you send and receive important notifications absolutely easy.
+  <br>
+  No dedicated server or Internet connection is required!
   </p>
+
 </p>
 
 

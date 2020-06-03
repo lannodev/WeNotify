@@ -1,12 +1,3 @@
-# WeNotify
-
-
-
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -35,3 +26,10 @@
 ## About The Project
 
 <img src="images/1.png" alt="Logo" width="80" height="80">
+
+### Download
+
+| Name | Version |
+| ------ | ------ |
+| WeNotify Manager | [https://github.com/luciano-work/WeNotify/releases/tag/1.2.0] |
+| WeNotify Client | [https://github.com/luciano-work/WeNotify/releases/tag/1.1.0] |
